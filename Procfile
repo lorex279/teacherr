@@ -1,2 +1,3 @@
-web: python teacherbot.py
+worker: python teacherbot.py
+
 
